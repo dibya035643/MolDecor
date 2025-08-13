@@ -1,0 +1,8 @@
+rdkit-pypi
+transformers
+evaluate
+datasets
+scikit-learn
+torch==2.1.2
+accelerate
+peft
